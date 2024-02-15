@@ -1,7 +1,4 @@
 This github repository contains the different programming exercises of the course Optimization and operations research.
-
-
-    Why the project is useful
-    How users can get started with the project
-    Where users can get help with your project
-    Who maintains and contributes to the project
+git clone: https://github.com/mariusokoto/Optimization-Course-Marius-.git
+Users can get help by email : marius.leorat@uvic.cat
+This project is maintained and contributed by Marius Leorat, Esilv student during his semester at Uvic
